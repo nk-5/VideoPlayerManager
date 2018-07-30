@@ -57,6 +57,10 @@ freeline.py
 freeline/
 freeline_project_description.json
 
+# Bundler
+vendor/
+.bundle/
+
 # fastlane
 fastlane/report.xml
 fastlane/Preview.html
